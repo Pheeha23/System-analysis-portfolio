@@ -23,7 +23,7 @@ Tools & Technologies
 Featured Projects
 
 Hospital Management System Analysis
-Repository: SA-hospital-management-system
+Repository:(https://github.com/Pheeha23/SA-hospital-management-system)
 
 Inventory Management System Analysis
 Coming Soon
